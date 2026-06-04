@@ -1,7 +1,11 @@
 {
+{
   "id": "all-in-one-nuvio",
   "name": "All-in-One-Nuvio",
   "version": "1.0.0",
+  "author": "aZuiZui",
+  "description": "All-in-One Nuvio provider collection",
+  "baseUrl": "https://raw.githubusercontent.com/aZuiZui/All-in-One-Nuvio/aZuiZui-patch-1/",
   "scrapers": [
     {
       "id": "allanime",
